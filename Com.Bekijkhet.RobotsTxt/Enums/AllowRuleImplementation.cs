@@ -1,4 +1,4 @@
-namespace RobotsTxt
+namespace Com.Bekijkhet.RobotsTxt
 {
     /// <summary>
     /// Specifies how to handle to Allow rules.

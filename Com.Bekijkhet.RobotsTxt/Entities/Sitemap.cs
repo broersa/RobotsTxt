@@ -1,6 +1,6 @@
 using System;
 
-namespace RobotsTxt
+namespace Com.Bekijkhet.RobotsTxt
 {
     /// <summary>
     /// Represents a sitemap directive in a robots.txt file.

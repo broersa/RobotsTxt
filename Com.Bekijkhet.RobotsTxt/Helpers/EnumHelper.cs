@@ -1,4 +1,4 @@
-namespace RobotsTxt
+namespace Com.Bekijkhet.RobotsTxt
 {
     internal static class EnumHelper
     {

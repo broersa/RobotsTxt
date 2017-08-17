@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace RobotsTxt
+namespace Com.Bekijkhet.RobotsTxt
 {
     /// <summary>
     /// Provides functionality for parsing a robots.txt file's content and querying the rules and directives inside it.

@@ -1,6 +1,6 @@
 using System;
 
-namespace RobotsTxt
+namespace Com.Bekijkhet.RobotsTxt
 {
     internal class Line
     {

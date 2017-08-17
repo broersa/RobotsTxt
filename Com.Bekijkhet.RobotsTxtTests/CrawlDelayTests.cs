@@ -1,8 +1,8 @@
 using System;
 using Xunit;
-using RobotsTxt;
+using Com.Bekijkhet.RobotsTxt;
 
-namespace RobotsTxtTests
+namespace Com.Bekijkhet.RobotsTxtTests
 {
     public class CrawlDelayTests
     {

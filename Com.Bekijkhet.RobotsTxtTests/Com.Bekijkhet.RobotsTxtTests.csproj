@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RobotsTxt\RobotsTxt.csproj" />
+    <ProjectReference Include="..\Com.Bekijkhet.RobotsTxt\Com.Bekijkhet.RobotsTxt.csproj" />
   </ItemGroup>
 
 </Project>

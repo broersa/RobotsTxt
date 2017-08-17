@@ -1,7 +1,7 @@
 using System;
 using System.Globalization;
 
-namespace RobotsTxt
+namespace Com.Bekijkhet.RobotsTxt
 {
     internal class CrawlDelayRule : Rule
     {
