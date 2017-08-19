@@ -1,5 +1,7 @@
 # RobotsTxt #
-A [robots.txt](http://en.wikipedia.org/wiki/Robots.txt) parser written in C# with .NET Framework 4.5.
+A [robots.txt](http://en.wikipedia.org/wiki/Robots.txt) parser written in C# with .NET Core 2.0.
+
+I did a fork of the original RobotsTxt package to build a version for the new dotnetcore framework.
 
 >The Robot Exclusion Standard, also known as the Robots Exclusion Protocol or robots.txt protocol, is a  convention to prevent cooperating web spiders and other web robots from accessing all or part of a website which is otherwise publicly viewable. Robots are often used by search engines  to categorize and archive web sites, or by webmasters to proofread source code. The standard is unrelated to, but can be used in conjunction with, Sitemaps, a robot inclusion standard for websites.
 
@@ -26,7 +28,7 @@ long crawlDelay = robots.CrawlDelay(myUserAgent); // Will return zero if there a
 ```
 
 ### Get ###
-Install via [NuGet](https://www.nuget.org/packages/RobotsTxt) :
+Install via [NuGet](https://www.nuget.org/packages/Com.Bekijkhet.RobotsTxt) :
 ```
-PM> Install-Package RobotsTxt
+PM> Install-Package Com.Bekijkhet.RobotsTxt
 ```
